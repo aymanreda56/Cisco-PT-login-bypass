@@ -9,12 +9,10 @@ Run with:
 If you ran cisco_pt_patch.py without arguments, the script will assume that ciscoPT.exe is in the current directory, if not found, will assume the default installation path.
 
 
-Here's a simple demo:
+### Watch the simple demo:
 
-[![Watch the video](https://img.youtube.com/vi/ODqvbJrVVbc/0.jpg)](https://www.youtube.com/watch?v=ODqvbJrVVbc)
-
-[![Watch the video](https://img.youtube.com/vi/ODqvbJrVVbc/maxresdefault.jpg)](https://youtu.be/ODqvbJrVVbc)
-https://github.com/user-attachments/assets/5386598c-6678-4deb-8ac5-093cf200e772
+[![Watch the video](https://img.youtube.com/vi/ODqvbJrVVbc/hqdefault.jpg)](https://youtu.be/ODqvbJrVVbc)
+\
 
 
 This script supports only Windows 64 version.
