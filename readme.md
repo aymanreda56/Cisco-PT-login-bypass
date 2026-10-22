@@ -10,6 +10,9 @@ If you ran cisco_pt_patch.py without arguments, the script will assume that cisc
 
 
 Here's a simple demo:
+
+[![Watch the video](https://img.youtube.com/vi/ODqvbJrVVbc/0.jpg)](https://www.youtube.com/watch?v=ODqvbJrVVbc)
+
 [![Watch the video](https://img.youtube.com/vi/ODqvbJrVVbc/maxresdefault.jpg)](https://youtu.be/ODqvbJrVVbc)
 https://github.com/user-attachments/assets/5386598c-6678-4deb-8ac5-093cf200e772
 
