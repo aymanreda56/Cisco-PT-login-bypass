@@ -10,9 +10,7 @@ If you ran cisco_pt_patch.py without arguments, the script will assume that cisc
 
 
 ### Watch the simple demo:
-
 [![Watch the video](https://img.youtube.com/vi/ODqvbJrVVbc/hqdefault.jpg)](https://youtu.be/ODqvbJrVVbc)
-\
 
 
 This script supports only Windows 64 version.
